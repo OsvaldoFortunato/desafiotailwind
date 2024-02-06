@@ -1,7 +1,8 @@
 # Vue 3 + Vite
 
+# Obs : Este é o modulo do Client-Side, esta projeto conta também com modulo do Server-Side ou Back-End
 
-# Instruções para Executar o Programa Node.js
+# Instruções para Executar o Programa feito em Node.js
 
 Este ficheiro fornece orientação sobre como pode executar o programa Node.js. Siga as etapas abaixo para configurar e executar o programa em seu ambiente local.
 
