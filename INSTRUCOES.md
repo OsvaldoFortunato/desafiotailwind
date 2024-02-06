@@ -1,6 +1,7 @@
 # Vue 3 + Vite
 
-# Obs : Este é o modulo do Client-Side, esta projeto conta também com modulo do Server-Side ou Back-End
+# Obs : Este é o modulo do Client-Side, esta projeto conta também com modulo do Server-Side ou Back-End 
+# Servidor : https://github.com/OsvaldoFortunato/desafiotailwind_api
 
 # Instruções para Executar o Programa feito em Node.js
 
